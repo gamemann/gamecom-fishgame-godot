@@ -19,6 +19,11 @@ You can download playable builds for Windows, Linux and MacOS from the
 
 The game design is heavily inspired by [Duck Game](https://store.steampowered.com/app/312530/Duck_Game/).
 
+[Gamecom's Public Server!](https://gamecom.io/fishgame)
+--------
+
+[Gamecom's](https://gamecom.io/) public server may be found [here](https://gamecom.io/fishgame).
+
 Controls
 --------
 
@@ -35,9 +40,9 @@ Controls
 #### Keyboard: ####
 
 - **W**, **A**, **S**, **D** = move your fish
-- **C** = pickup/throw weapon
-- **V** = use weapon
-- **E** = blub
+- **E** = pickup/throw weapon
+- **Q** = use weapon
+- **C** = blub
 
 ### Playing Locally ###
 
